@@ -1,0 +1,5 @@
+{
+  "name": "AI Kali Linux Terminal ",
+  "description": "A visually realistic, interactive, and safe Kali Linux terminal simulator. It uses AI to generate harmless, rall outputs for common commands, providing an educational and engaging experience without any real system access.",
+  "requestFramePermissions": []
+}
